@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AxelSanchez25
 - 👀 I’m interested in ... becoming a full stack programmer.
 - 🌱 I’m currently learning ... HTML, CSS, JS, .NET
-- 💞️ I’m looking to collaborate on ... News proyect
+- 💞️ I’m looking to collaborate on ... New proyects
 - 📫 How to reach me ... sanchez_axel7
 
 <!---
